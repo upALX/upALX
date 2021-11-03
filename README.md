@@ -1,11 +1,16 @@
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alexandre</h1>
+<p> I'm that kind of restless person. My greatest satisfaction is being nonconformist and always seeking innovation.  I'm driven by challenges and I make them my source of motivation, dealing with big things is my nature and "impossible" type challenges are my favorites. <br>
+ <strong> My dream is to change the world through technology. </strong>
+</p>
 
-- 👀 I’m interested in 
-- 🌱 I’m currently learning NodeJS, reactJS, data analist and information security.
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upalx&layout=compact&theme=midnight-purple" alt="Alexandre's most languages"/>
+</p>
+
  ![Snake animation](https://github.com/upalx/upalx/blob/output/github-contribution-grid-snake.svg)
-
-<br><br>
 
 ## 🛠 &nbsp;Tech Stack
 
@@ -21,32 +26,19 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 
-<br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=upalx&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upalx&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
-</p>
-
-<br><br>
-
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
 <a href="https://linkedin.com/in/upalx" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Alexandre-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
+ <a href="https://beacons.ai/alxinc" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Beacons-05122A?style=flat&logo=Beacons" alt="beacons"/>
+</a>
 <a href="https://instagram.com/alletunes" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Alexandre-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
-<a href="https://beacons.ai/alxinc" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Beacons-05122A?style=flat&logo=Beacons" alt="beacons"/>
-</a>
 </p>
-
-
 
 <!---
 AlexandreALX/AlexandreALX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
