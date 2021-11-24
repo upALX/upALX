@@ -4,6 +4,7 @@
  <strong> My dream is to change the world through technology. </strong>
 </p>
 
+**Português**
 <p> Eu sou esse tipo de pessoa inquieta. Minha maior satisfação é ser inconformista e buscar sempre inovar. Sou movido por desafios e faço deles minha fonte de motivação, lidar com grandes coisas é minha natureza e desafios do tipo "impossível" são meus favoritos.
 Meu sonho é mudar o mundo por meio da tecnologia. </p>
 
