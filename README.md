@@ -41,16 +41,13 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
+ <a href="https://beacons.ai/alxinc" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-Todas as redes sociais-05122A?style=flat&logo=buy-me-a-coffee" alt="beacons"/>
+</a>
 <a href="https://linkedin.com/in/upalx" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
- <a href="https://beacons.ai/alxinc" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Beacons-05122A?style=flat&logo=Beacons" alt="beacons"/>
-</a>
-<a href="https://instagram.com/alletunes" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-Instagram-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-</p>
+
 
 <!---
 AlexandreALX/AlexandreALX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
