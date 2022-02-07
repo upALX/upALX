@@ -34,10 +34,30 @@
 ![YARN](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
+![PIP](https://img.shields.io/badge/-PIP-05122A?style=flat&logo=Pypi)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Jinja2](https://img.shields.io/badge/-Jinja2-05122A?style=flat&logo=jinja)&nbsp;
+![Nunjucks](https://img.shields.io/badge/-Nunjucks-05122A?style=flat&logo=Nunjucks)&nbsp;
+
+
+
+## :brain: Tech learn
+
+![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![Docker](https://img.shields.io/badge/-Docker-05122A?style=flat&logo=docker)&nbsp;
+![FLASK](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
+![Falcon](https://img.shields.io/badge/-Falcon-05122A?style=flat&logo=Falcon)&nbsp;
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
+![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C-Sharp)&nbsp;
+![.NET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=DotNet)&nbsp;
+![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=Next.js)&nbsp;
+![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)&nbsp;
+![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)&nbsp;
+![FastApi](https://img.shields.io/badge/-FastApi-05122A?style=flat&logo=FastApi)&nbsp;
 
 ## 👨🏽‍🦲 &nbsp;Social Links
 
