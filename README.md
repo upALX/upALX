@@ -6,6 +6,7 @@
 
 </p>
 
+
 **Português**
 <p> Eu sou esse tipo de pessoa inquieta. Minha maior satisfação é ser inconformado e buscar sempre a inovação é um lema. Sou movido por desafios e faço deles minha fonte de motivação. Lidar com grandes Desafios é minha natureza e desafios do tipo "impossível" são meus favoritos. <br>
  <strong>Meu sonho é mudar o mundo através da Tecnologia e você pode fazer parte disso! </strog>
