@@ -44,7 +44,6 @@
 ![Nunjucks](https://img.shields.io/badge/-Nunjucks-05122A?style=flat&logo=Nunjucks)&nbsp;
 
 
-
 ## :brain: Tech learning
 
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
