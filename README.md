@@ -10,7 +10,6 @@
  <strong>Meu sonho é mudar o mundo através da Tecnologia e você pode fazer parte disso! </strong>
 </p>
 
-
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
