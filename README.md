@@ -1,6 +1,5 @@
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">, I'm Alexandre</h1>
 
-
 **English**
 <p> I'm that kind of restless person. My greatest satisfaction is being nonconformist and always seeking innovation is a motto. I am driven by challenges and I make them my source of motivation. Dealing with great Challenges is my nature and "impossible" challenges are my favorites. <br>
    <strong> My dream is to change the world through Technology and you can be part of it! </strong>
