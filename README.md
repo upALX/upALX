@@ -18,7 +18,6 @@
 <!--- Snake animation analytics to github --->
  ![Snake animation](https://github.com/upalx/upalx/blob/output/github-contribution-grid-snake.svg)
 
-
 ## 🛠 &nbsp;Tech Stack
 
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
