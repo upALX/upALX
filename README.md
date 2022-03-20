@@ -40,6 +40,7 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![Jinja2](https://img.shields.io/badge/-Jinja2-05122A?style=flat&logo=jinja)&nbsp;
 ![Nunjucks](https://img.shields.io/badge/-Nunjucks-05122A?style=flat&logo=Nunjucks)&nbsp;
+
 ## :brain: Tech learning
 
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
