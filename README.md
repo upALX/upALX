@@ -56,6 +56,7 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)&nbsp;
 ![FastApi](https://img.shields.io/badge/-FastApi-05122A?style=flat&logo=FastApi)&nbsp;
+
 ## 🌐 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
