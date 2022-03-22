@@ -65,6 +65,7 @@
  <a href="https://beacons.ai/alxinc" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-Todas as redes sociais-05122A?style=flat&logo=buy-me-a-coffee" alt="beacons"/>
 </a>
+   
 <a href="https://linkedin.com/in/upalx" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-Linkedin-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
