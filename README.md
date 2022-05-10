@@ -16,6 +16,7 @@
 <img width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upalx&layout=compact&theme=midnight-purple" alt="Alexandre's most languages"/>
 </p>
 
+
 <!--- Snake animation analytics to github --->
  ![Snake animation](https://github.com/upalx/upalx/blob/output/github-contribution-grid-snake.svg)
 
