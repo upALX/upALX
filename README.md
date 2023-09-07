@@ -14,7 +14,6 @@
 
 ## ⚙️ &nbsp;GitHub Analytics
 
-
 <!--- Snake animation analytics to github --->
  ![Snake animation](https://github.com/upalx/upalx/blob/output/github-contribution-grid-snake.svg)
 
