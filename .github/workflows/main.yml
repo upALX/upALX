@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v2
 
       - uses: Platane/snk@v2
-        id: upalx-Snake
+        id: bylickilabs-Snake
         with:
           github_user_name: upalx
           outputs: |
