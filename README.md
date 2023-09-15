@@ -11,10 +11,10 @@
 </p>
 
 
-## ⚙️ &nbsp;GitHub Analytics
+## ⚙️ &nbsp;GitHub historic
 
 <!--- Snake animation analytics to github --->
- ![Snake animation](https://github.com/upalx/upalx/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/upALX/upALX/blob/output/github-snake-dark.svg)
 
 ## 🛠 &nbsp;Tech Stack
 
