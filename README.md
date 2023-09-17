@@ -62,10 +62,12 @@
 
 ![Compose](https://img.shields.io/badge/-Compose-05122A?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
+![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kafka)&nbsp;
 ![FLASK](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=Next.js)&nbsp;
 ![Falcon](https://img.shields.io/badge/-Falcon-05122A?style=flat&logo=Falcon)&nbsp;
-![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=Kafka)&nbsp;
+![Kafka](https://img.shields.io/badge/-ApacheKafka-05122A?style=flat&logo=ApacheKafka)&nbsp;
+![Spark](https://img.shields.io/badge/-ApacheSpark-05122A?style=flat&logo=ApacheSpark)&nbsp;
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=Prometheus)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)&nbsp;
 ![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)&nbsp;
