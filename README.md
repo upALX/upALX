@@ -32,8 +32,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Typescript](https://img.shields.io/badge/-Typescript-05122A?style=flat&logo=typescript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)&nbsp;
 
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
@@ -47,6 +47,7 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)&nbsp;
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=googlecloud)&nbsp;
 ![PIP](https://img.shields.io/badge/-PIP-05122A?style=flat&logo=Pypi)&nbsp;
+![Falcon](https://img.shields.io/badge/-Falcon-05122A?style=flat&logo=Falcon)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![Jinja2](https://img.shields.io/badge/-Jinja2-05122A?style=flat&logo=jinja)&nbsp;
 ![Nunjucks](https://img.shields.io/badge/-Nunjucks-05122A?style=flat&logo=Nunjucks)&nbsp;
@@ -63,15 +64,12 @@
 
 ![Compose](https://img.shields.io/badge/-Compose-05122A?style=flat&logo=docker)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kafka)&nbsp;
 ![FLASK](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=Next.js)&nbsp;
-![Falcon](https://img.shields.io/badge/-Falcon-05122A?style=flat&logo=Falcon)&nbsp;
 ![Kafka](https://img.shields.io/badge/-ApacheKafka-05122A?style=flat&logo=ApacheKafka)&nbsp;
 ![Spark](https://img.shields.io/badge/-ApacheSpark-05122A?style=flat&logo=ApacheSpark)&nbsp;
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=Prometheus)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)&nbsp;
-![Heroku](https://img.shields.io/badge/-Heroku-05122A?style=flat&logo=Heroku)&nbsp;
 
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
