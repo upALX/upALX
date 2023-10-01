@@ -1,15 +1,20 @@
 <h1 align="left">Hi 🖖🏾, I'm Alexandre</h1>
 
 **English**
-<p> I'm that kind of restless person. My greatest satisfaction is being nonconformist and always seeking innovation is a motto. I am driven by challenges and I make them my source of motivation. Dealing with great Challenges is my nature and "impossible" challenges are my favorites. 
-   
-   <strong> - What i cannot create, i cannot understand! </strong>
+<p> I'm restless. My greatest satisfaction is always having nonconformity for everything that still exists to innovate and learn. I am moved by challenges and people, which are my biggest source of motivation and inspiration to deal with big challenges - the best kind in the category. I really like the theory of things, but practice is what fascinates me every day, which is why I love technology and the opportunity it brings to put things into practice quickly. In short, I am the symbiosis of two sentences:
+
+   <strong> - Always satisfied, never satisfied! </strong>
+ 
+   <strong> - What I cannot create, I cannot understand.   </strong>
+  
 </p>
 
 **Português**
-<p> Eu sou aquele tipo de pessoa inquieta. Minha maior satisfação é ser inconformado e buscar sempre a inovação é um lema. Sou movido por desafios e faço deles minha fonte de motivação. Lidar com grandes Desafios é minha natureza e desafios do tipo "impossível" são meus favoritos. 
+<p>Sou inquieto. Minha maior satisfação é ter sempre a inconformidade por tudo aquilo que ainda existe a se inovar e aprender. Sou movido por desafios e pessoas, sendo esses minha maior fonte de motivação e inspiração para lidar com grandes desafios - o melhor tipo da categoria. Gosto muito da teoria das coisas, porém a prática é o que me fascina diariamente, por isso amo tecnologia e a oportunidade que ela trás de colocar em prática as coisas de forma rápida. Em resumo, sou a simbiose de duas frases:
    
- <strong> - Aquilo que não posso criar, não posso entender. </strong>
+ <strong> - Satisfeito sempre, conformado jamais! </strong>
+ 
+  <strong> - Aquilo que não posso criar, não consigo entender.  </strong>
 </p>
 
 ## 📶 &nbsp;GitHub analytics 
