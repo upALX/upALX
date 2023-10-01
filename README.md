@@ -13,8 +13,9 @@
 </p>
 
 ## 📶 &nbsp;GitHub analytics 
- <div align="center">
-  <img height="230em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upalx&layout=compact&langs_count=7&theme=dark"/>
+ <div align="center" margin="0 auto">    
+   <img height="180em" width="500em" src="https://github-readme-streak-stats.herokuapp.com/?user=upalx&theme=dark&hide_border=false"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upalx&layout=compact&langs_count=7&theme=dark"/> 
 </div>
 
 ## ⚙️ &nbsp;GitHub historic
