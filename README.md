@@ -1,4 +1,4 @@
-<h1 align="left">Hi 🖖🏾, I'm Alexandre</h1>
+<h1 align="left">Hi 🖖🏾, i'm Alexandre</h1>
 
 **English**
 <p> I'm restless. My greatest satisfaction is always having nonconformity for everything that still exists to innovate and learn. I am moved by challenges and people, which are my biggest source of motivation and inspiration to deal with big challenges - the best kind in the category. I really like the theory of things, but practice is what fascinates me every day, which is why I love technology and the opportunity it brings to put things into practice quickly. In short, I am the symbiosis of two sentences:
