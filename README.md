@@ -71,9 +71,11 @@
 
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=GO)&nbsp;
 ![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C-Sharp)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 
 ![GIN](https://img.shields.io/badge/-GIN-05122A?style=flat&logo=Gin)&nbsp;
 ![.NET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=DotNet)&nbsp;
+![springboot](https://img.shields.io/badge/-Spring_boot-05122A?style=flat&logo=springboot)&nbsp;
 ![FLASK](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
 ![VueJS](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
