@@ -92,7 +92,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)&nbsp;
 
-
 ## 🌐 &nbsp;Social Links
 
 <p align="left" style="background:yellow">
