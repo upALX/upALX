@@ -99,8 +99,7 @@
  <a href="https://beacons.ai/alxinc" target="_blank">
  <img align="center" src="https://img.shields.io/badge/-All socials-05122A?style=flat&logo=buy-me-a-coffee" alt="beacons"/>
 </a>
-
 <!---
 AlexandreALX/AlexandreALX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
+You can click the Preview link to take a look at your changes. Sempre preparado!!!!!!!
 --->
