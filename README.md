@@ -47,6 +47,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![FLASK](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Falcon](https://img.shields.io/badge/-Falcon-05122A?style=flat&logo=Falcon)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
@@ -76,7 +77,6 @@
 ![GIN](https://img.shields.io/badge/-GIN-05122A?style=flat&logo=Gin)&nbsp;
 ![.NET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=DotNet)&nbsp;
 ![springboot](https://img.shields.io/badge/-Spring_boot-05122A?style=flat&logo=springboot)&nbsp;
-![FLASK](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
 ![VueJS](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![NextJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=Next.js)&nbsp;
