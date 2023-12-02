@@ -62,6 +62,7 @@
 ![Filezilla](https://img.shields.io/badge/-Filezilla-05122A?style=flat&logo=Filezilla)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)&nbsp;
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=googlecloud)&nbsp;
+![Amazon Web Services](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws)&nbsp;
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
