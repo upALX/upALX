@@ -1,6 +1,6 @@
 <h1 align="left">Greetings 🖖🏾, i'm Alexandre</h1>
 
-**English**
+**🇺🇸**
 <p> I'm restless. My greatest satisfaction is always having nonconformity for everything that still exists to innovate and learn. I am moved by challenges and people, which are my biggest source of motivation and inspiration to deal with big challenges - the best kind in the category. I really like the theory of things, but practice is what fascinates me every day, which is why I love technology and the opportunity it brings to put things into practice quickly. In short, I am the symbiosis of two sentences:
 
    <strong> - Always satisfied, never satisfied! </strong>
@@ -9,7 +9,7 @@
   
 </p>
 
-**Português**
+**🇧🇷**
 <p>Sou inquieto. Minha maior satisfação é ter sempre a inconformidade por tudo aquilo que ainda existe a se inovar e aprender. Sou movido por desafios e pessoas, sendo esses minha maior fonte de motivação e inspiração para lidar com grandes desafios - o melhor tipo da categoria. Gosto muito da teoria das coisas, porém a prática é o que me fascina diariamente, por isso amo tecnologia e a oportunidade que ela trás de colocar em prática as coisas de forma rápida. Em resumo, sou a simbiose de duas frases:
    
  <strong> - Satisfeito sempre, conformado jamais! </strong>
@@ -49,6 +49,7 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![FLASK](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![Falcon](https://img.shields.io/badge/-Falcon-05122A?style=flat&logo=Falcon)&nbsp;
+![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=pytest)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
 ![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=GitLab)&nbsp;
@@ -72,10 +73,10 @@
 ## :brain: &nbsp;Tech learning
 
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=GO)&nbsp;
-![C#](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=C-Sharp)&nbsp;
+![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 
-![GIN](https://img.shields.io/badge/-GIN-05122A?style=flat&logo=Gin)&nbsp;
+![GIN](https://img.shields.io/badge/-GIN-05122A?style=flat&logo=gin)&nbsp;
 ![.NET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=DotNet)&nbsp;
 ![springboot](https://img.shields.io/badge/-Spring_boot-05122A?style=flat&logo=springboot)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
