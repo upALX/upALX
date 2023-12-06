@@ -66,6 +66,7 @@
 ![Amazon Web Services](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws)&nbsp;
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![SQLalchemy](https://img.shields.io/badge/-SQLalchemy-05122A?style=flat&logo=sqlalchemy)&nbsp;
@@ -92,7 +93,6 @@
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)&nbsp;
 
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)&nbsp;
 
 ## 🌐 &nbsp;Social Links
