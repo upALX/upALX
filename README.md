@@ -78,7 +78,6 @@
 ![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
 ![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
 
-![GIN](https://img.shields.io/badge/-GIN-05122A?style=flat&logo=gin)&nbsp;
 ![.NET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=DotNet)&nbsp;
 ![springboot](https://img.shields.io/badge/-Spring_boot-05122A?style=flat&logo=springboot)&nbsp;
 ![Express](https://img.shields.io/badge/-Express-05122A?style=flat&logo=Express)&nbsp;
