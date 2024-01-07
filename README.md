@@ -21,7 +21,7 @@
 ## 📶 &nbsp;GitHub analytics 
  <div align="center" margin="0 auto">    
     
-   <img height="180em" width="500" src="https://streak-stats-zap-dark.vercel.app?user=upalx&theme=python-dark"/>
+   <img height="180em" width="500" src="github-template-stats-lq5lglt2o-upalx.vercel.app?user=upalx&theme=python-dark"/>
    
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upalx&layout=compact&langs_count=7&theme=dark"/> 
 </div>
