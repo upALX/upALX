@@ -25,7 +25,10 @@
 
    <img height="180em" width="500" src="https://github-template-stats.vercel.app?user=upalx&theme=python-dark" alt="GitHub Streak" />
    
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=upalx&layout=compact&langs_count=7&theme=dark"/> 
+   <img height="180em" src="https://github-readme-stats-nine-topaz-92.vercel.app/api/top-langs/?username=upalx&layout=compact&show_icons=true"/> 
+
+   
+   
 </div>
 
 ## ⚙️ &nbsp;GitHub historic
