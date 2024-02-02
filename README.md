@@ -26,7 +26,6 @@
    
    <img height="180em" src="https://github-readme-stats-nine-topaz-92.vercel.app/api/top-langs/?username=upalx&layout=compact&show_icons=true&theme=gotham&border_color=4584b6&title_color=4584b6&text_color=ffde57&bg_color=000000&hide=php,jupyter%20notebook&langs_count=7"/> 
 
-   
 </div>
 
 ## ⚙️ &nbsp;GitHub historic
