@@ -20,7 +20,6 @@
 
 ## 📶 &nbsp;GitHub analytics 
  <div align="center" margin="0 auto">    
-   
 
    <img height="180em" width="500" src="https://github-template-stats.vercel.app?user=upalx&theme=python-dark" alt="GitHub Streak" />
    
