@@ -74,6 +74,7 @@
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
+![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![SQLalchemy](https://img.shields.io/badge/-SQLalchemy-05122A?style=flat&logo=sqlalchemy)&nbsp;
