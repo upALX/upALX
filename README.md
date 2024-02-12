@@ -77,6 +77,8 @@
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
 ![SQLalchemy](https://img.shields.io/badge/-SQLalchemy-05122A?style=flat&logo=sqlalchemy)&nbsp;
+![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=typeform)&nbsp;
+
 
 ## :brain: &nbsp;Tech learning
 
@@ -99,7 +101,6 @@
 
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)&nbsp;
-![TypeORM](https://img.shields.io/badge/-TypeORM-05122A?style=flat&logo=typeform)&nbsp;
 ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
 
 
