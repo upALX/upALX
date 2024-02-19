@@ -9,7 +9,6 @@
   
 </p>
 
-
 **🇧🇷**
 <p>Sou inquieto. Minha maior satisfação é ter sempre a inconformidade por tudo aquilo que ainda existe a se inovar e aprender. Sou movido por desafios e pessoas, sendo esses minha maior fonte de motivação e inspiração para lidar com grandes desafios - o melhor tipo da categoria. Gosto muito da teoria das coisas, porém a prática é o que me fascina diariamente, por isso amo tecnologia e a oportunidade que ela trás de colocar em prática as coisas de forma rápida. Em resumo, sou a simbiose de duas frases:
    
