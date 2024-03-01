@@ -79,7 +79,6 @@
 ![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=MongoDB)&nbsp;
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 
-
 ## :brain: &nbsp;Tech learning
 
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=GO)&nbsp;
