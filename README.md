@@ -49,6 +49,7 @@
 
    
 <!--- Snake animation analytics to github --->
+
  ![Snake animation](https://github.com/upALX/upALX/blob/output/github-snake-dark.svg)
 
    
