@@ -32,7 +32,7 @@
  <div align="center" margin="0 auto">    
 
 
-   <img height="175em" width="470" src="https://github-template-stats-7u58eemjl-upalxs-projects.vercel.app?user=upalx&theme=python-dark" alt="GitHub Streak" />
+   <a href="https://git.io/streak-stats"><img src="https://github-template-stats-o9hhyem3z-upalxs-projects.vercel.app?user=upalx&theme=python-dark" alt="GitHub Streak" /></a>
 
    
    <img height="175em" src="https://github-readme-stats-nine-topaz-92.vercel.app/api/top-langs/?username=upalx&layout=compact&show_icons=true&theme=gotham&border_color=4584b6&title_color=4584b6&text_color=ffde57&bg_color=000000&hide=php,jupyter%20notebook&langs_count=7"/> 
