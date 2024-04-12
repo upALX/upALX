@@ -86,6 +86,7 @@
 ![NPM](https://img.shields.io/badge/-NPM-05122A?style=flat&logo=npm)&nbsp;
 ![YARN](https://img.shields.io/badge/-Yarn-05122A?style=flat&logo=yarn)&nbsp;
 ![PIP](https://img.shields.io/badge/-PIP-05122A?style=flat&logo=Pypi)&nbsp;
+![PNPM](https://img.shields.io/badge/-PNPM-05122A?style=flat&logo=pnpm)&nbsp;
 ![Jinja2](https://img.shields.io/badge/-Jinja2-05122A?style=flat&logo=jinja)&nbsp;
 ![Nunjucks](https://img.shields.io/badge/-Nunjucks-05122A?style=flat&logo=Nunjucks)&nbsp;
 ![Postman](https://img.shields.io/badge/-Postman-05122A?style=flat&logo=Postman)&nbsp;
