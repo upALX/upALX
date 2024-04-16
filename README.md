@@ -78,7 +78,6 @@
 ![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
 ![FLASK](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
 ![shadcnui](https://img.shields.io/badge/-Shadcn/ui-05122A?style=flat&logo=shadcnui)&nbsp;
-![NEXTJS](https://img.shields.io/badge/-NextJS-05122A?style=flat&logo=nextdotjs)&nbsp;
 ![Falcon](https://img.shields.io/badge/-Falcon-05122A?style=flat&logo=Falcon)&nbsp;
 ![Pytest](https://img.shields.io/badge/-Pytest-05122A?style=flat&logo=pytest)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
