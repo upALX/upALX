@@ -1,11 +1,11 @@
 
 
-<h1 align="left">Greetings 🖖🏾, i'm Alexandre!</h1>
+<h1 align="left">Greetings  <img height="32em" src="https://github.com/upALX/All-Assets/blob/main/saudation-icon-animated.gif" alt="GitHub Streak"  /> , i'm Alexandre!</h1>
 
 
 
 **🇺🇸**
-<p> I'm restless. My greatest satisfaction is always having nonconformity for everything that still exists to innovate and learn. I am moved by challenges and people, which are my biggest source of motivation and inspiration to deal with big challenges - the best kind in the category. I really like the theory of things, but practice is what fascinates me every day, which is why I love technology and the opportunity it brings to put things into practice quickly. In short, I am the symbiosis of two sentences:
+<p> I'm restless. My greatest satisfaction is always having nonconformity for everything that still exists to innovate and learn. I am moved by challenges and people, which are my biggest source of motivation and inspiration to deal with big challenges. I really like the theory of things, but practice is what fascinates me every day, which is why I love technology and the opportunity it brings to put things into practice quickly. In short, I am the symbiosis of two sentences:
 
 
 
@@ -21,7 +21,7 @@
 
 
 **🇧🇷**
-<p>Sou inquieto. Minha maior satisfação é ter sempre a inconformidade por tudo aquilo que ainda existe a se inovar e aprender. Sou movido por desafios e pessoas, sendo esses minha maior fonte de motivação e inspiração para lidar com grandes desafios - o melhor tipo da categoria. Gosto muito da teoria das coisas, porém a prática é o que me fascina diariamente, por isso amo tecnologia e a oportunidade que ela trás de colocar em prática as coisas de forma rápida. Em resumo, sou a simbiose de duas frases:
+<p>Sou inquieto. Minha maior satisfação é ter sempre a inconformidade por tudo aquilo que ainda existe a se inovar e aprender. Sou movido por desafios e pessoas, sendo esses minha maior fonte de motivação e inspiração para lidar com grandes desafios. Gosto muito da teoria das coisas, porém a prática é o que me fascina diariamente, por isso amo tecnologia e a oportunidade que ela trás de colocar em prática as coisas de forma rápida. Em resumo, sou a simbiose de duas frases:
 
 
    
@@ -36,7 +36,7 @@
 
 
 
-## &nbsp;GitHub analytics  <img height="21em" border-radius="50%" src="https://github.com/upALX/All-Assets/blob/main/analytics.gif" alt="GitHub Streak"  /> 
+## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/my-number-icon.gif" alt="GitHub Streak"  /> My numbers don't lie   
  <div align="center" margin="0 auto">    
 
 
@@ -51,7 +51,7 @@
 
 
 
-## <img height="21em" src="https://github.com/upALX/All-Assets/blob/main/scroll.gif" alt="GitHub Streak" /> &nbsp;GitHub lifetime
+## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/history-lifetime.gif" alt="GitHub Streak" />  My story is proof
  
 
 
@@ -66,7 +66,7 @@
 </div>
 
 
-## <img height="21em" src="https://github.com/upALX/All-Assets/blob/main/artificial-intelligence.gif" alt="GitHub Streak" /> &nbsp;Tech Stack
+## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/tech-stack-icon.gif" alt="GitHub Streak" /> My tech stack always grows
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
@@ -115,7 +115,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 
 
-## <img height="32em" src="https://github.com/upALX/All-Assets/blob/main/output-onlinegiftools.gif" alt="GitHub Streak" /> &nbsp;Tech learning
+## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/output-onlinegiftools.gif" alt="GitHub Streak" /> My tech learning never stops!
 
 
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=GO)&nbsp;
