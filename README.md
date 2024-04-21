@@ -36,7 +36,7 @@
 
 
 
-## 📶 &nbsp;GitHub analytics 
+## &nbsp;GitHub analytics  <img height="21em" border-radius="50%" src="https://github.com/upALX/All-Assets/blob/main/analytics.gif" alt="GitHub Streak"  /> 
  <div align="center" margin="0 auto">    
 
 
@@ -51,7 +51,8 @@
 
 
 
-## ⚙️ &nbsp;GitHub historic
+## <img height="21em" src="https://github.com/upALX/All-Assets/blob/main/scroll.gif" alt="GitHub Streak" /> &nbsp;GitHub lifetime
+ 
 
 
 <div align="center">
@@ -65,7 +66,7 @@
 </div>
 
 
-## 🛠 &nbsp;Tech Stack
+## <img height="21em" src="https://github.com/upALX/All-Assets/blob/main/artificial-intelligence.gif" alt="GitHub Streak" /> &nbsp;Tech Stack
 
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python)&nbsp;
@@ -114,7 +115,7 @@
 ![Redis](https://img.shields.io/badge/-Redis-05122A?style=flat&logo=redis)&nbsp;
 
 
-## :brain: &nbsp;Tech learning
+## <img height="32em" src="https://github.com/upALX/All-Assets/blob/main/output-onlinegiftools.gif" alt="GitHub Streak" /> &nbsp;Tech learning
 
 
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=GO)&nbsp;
