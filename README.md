@@ -37,7 +37,7 @@
 
 
 
-## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/my-number-icon.gif" alt="GitHub Streak"  /> My numbers don't lie   
+## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/my-number-icon.gif" alt="GitHub Streak"  /> My numbers & languages
  <div align="center" margin="0 auto">    
 
 
@@ -53,7 +53,7 @@
 
 
 
-## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/history-lifetime.gif" alt="GitHub Streak" />  My story is proof
+## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/history-lifetime.gif" alt="GitHub Streak" />  My Story 
  
 
 
@@ -69,7 +69,7 @@
 
 
 
-## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/tech-stack-icon.gif" alt="GitHub Streak" /> My tech stack always grows
+## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/tech-stack-icon.gif" alt="GitHub Streak" /> Tech stack
 
 
 
@@ -122,7 +122,7 @@
 
 
 
-## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/output-onlinegiftools.gif" alt="GitHub Streak" /> My tech learning never stops!
+## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/output-onlinegiftools.gif" alt="GitHub Streak" /> Tech learn
 
 
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=GO)&nbsp;
