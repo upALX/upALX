@@ -33,7 +33,6 @@
   <strong> - Aquilo que não posso criar, não consigo entender.  </strong>
 
 
-
 </p>
 
 
