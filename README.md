@@ -15,7 +15,6 @@
  
    <strong> - What I cannot create, I do not understand.   </strong>
 
-
   
 </p>
 
