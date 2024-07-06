@@ -18,7 +18,6 @@
  
   <strong> - Aquilo que não posso criar, não consigo entender.  </strong>
 
-
 </p>
 
 ## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/my-number-icon.gif" alt="GitHub Streak"  /> My numbers & languages
