@@ -97,7 +97,6 @@
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 
-
 ![Kafka](https://img.shields.io/badge/-ApacheKafka-05122A?style=flat&logo=ApacheKafka)&nbsp;
 ![Spark](https://img.shields.io/badge/-ApacheSpark-05122A?style=flat&logo=ApacheSpark)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
