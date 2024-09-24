@@ -20,7 +20,6 @@
 
 ## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/my-number-icon.gif" alt="GitHub Streak"  /> My numbers & languages
 
-
  <div align="center" margin="0 auto">    
 
 <img height="175em" src="https://stats-github-app.vercel.app?user=upalx&theme=python-dark" alt="GitHub Streak" />
