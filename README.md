@@ -1,21 +1,10 @@
 <h1 align="left">Greetings  <img height="32em" src="https://github.com/upALX/All-Assets/blob/main/saudation-icon-animated.gif" alt="GitHub Streak"  /> , i'm Alexandre!</h1>
 
 **🇺🇸**
-<p> I'm restless. My greatest satisfaction is always having nonconformity for everything that still exists to innovate and learn. I am moved by challenges and people, which are my biggest source of motivation and inspiration to deal with big challenges. I really like the theory of things, but practice is what fascinates me every day, which is why I love technology and the opportunity it brings to put things into practice quickly. In short, I am the symbiosis of two sentences:
-
-   <strong> - Always satisfied, never satisfied! </strong>
- 
-   <strong> - What I cannot create, I do not understand.   </strong>
-
-</p>
+<p> I'm restless. Driven by restlessness and guided by curiosity. I have always found beauty in the simplicity of solving big challenges, in the elegance of these solutions, and in the power of innovation. Technology connects me with this essence, my essence. I don't just experience technology as a passionate person, but rather someone who wants to leave marks that impact and simplify people's daily lives. I don't want to be the one who builds the bridge alone, but rather the one who helps build.</p>
 
 **🇧🇷**
-<p>Sou inquieto. Minha maior satisfação é ter sempre a inconformidade por tudo aquilo que ainda existe a se inovar e aprender. Sou movido por desafios e pessoas, sendo esses minha maior fonte de motivação e inspiração para lidar com grandes desafios. Gosto muito da teoria das coisas, porém a prática é o que me fascina diariamente, por isso amo tecnologia e a oportunidade que ela trás de colocar em prática as coisas de forma rápida. Em resumo, sou a simbiose de duas frases:
-
- <strong> - Satisfeito sempre, conformado jamais! </strong>
- 
-  <strong> - Aquilo que não posso criar, não consigo entender.  </strong>
-
+<p>Sou inquieto. Movido pela inquietude e guiado pela curiosidade. Sempre encontrei beleza na simplicidade de resolver grandes desafios, na elegancia dessas soluções, e no poder da inovação. Tecnologia me conecta com essa essencia, minha essencia. Não vivo tecnologia apenas como um apaixonado, e sim, alguém que quer deixar marcas que impactam e simplificam o cotidiano das pessoas. Não quero ser aquele que faz a ponte sozinho, e sim aquele alguém que ajuda a construir.
 </p>
 
 ## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/my-number-icon.gif" alt="GitHub Streak"  /> My numbers & languages
