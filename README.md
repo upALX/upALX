@@ -61,7 +61,7 @@
 ![Tailwind](https://img.shields.io/badge/-Tailwind-05122A?style=flat&logo=tailwindcss)&nbsp;
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)&nbsp;
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=googlecloud)&nbsp;
-![Amazon Web Services](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonaws)&nbsp;
+![Amazon Web Services](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonwebservices)&nbsp;
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
@@ -74,6 +74,7 @@
 ## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/output-onlinegiftools.gif" alt="GitHub Streak" /> Tech learn
 
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=GO)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
 ![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
 
 ![.NET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=DotNet)&nbsp;
@@ -82,13 +83,17 @@
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=Redux)&nbsp;
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
+![Lumen](https://img.shields.io/badge/-Lumen-05122A?style=flat&logo=lumen)&nbsp;
+![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=flat&logo=apollographql)&nbsp;
 
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![Kafka](https://img.shields.io/badge/-ApacheKafka-05122A?style=flat&logo=ApacheKafka)&nbsp;
 ![Spark](https://img.shields.io/badge/-ApacheSpark-05122A?style=flat&logo=ApacheSpark)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=Prometheus)&nbsp;
 ![Vercel](https://img.shields.io/badge/-Vercel-05122A?style=flat&logo=Vercel)&nbsp;
 
+![Eloquent](https://img.shields.io/badge/-Eloquent-05122A?style=flat&logo=eloquent)&nbsp;
 ![SQLServer](https://img.shields.io/badge/-SQLServer-05122A?style=flat&logo=Microsoft-SQL-Server)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)&nbsp;
 ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
