@@ -1,4 +1,4 @@
-
+de
 <h1 align="left">Greetings  <img height="32em" src="https://github.com/upALX/All-Assets/blob/main/saudation-icon-animated.gif" alt="GitHub Streak"  /> , i'm Alexandre!</h1>
 
 **🇺🇸**
@@ -99,6 +99,7 @@
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![Lumen](https://img.shields.io/badge/-Lumen-05122A?style=flat&logo=lumen)&nbsp;
 ![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=flat&logo=apollographql)&nbsp;
+
 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![Kafka](https://img.shields.io/badge/-ApacheKafka-05122A?style=flat&logo=ApacheKafka)&nbsp;
