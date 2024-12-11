@@ -114,5 +114,4 @@ de
 ![Prisma](https://img.shields.io/badge/-Prisma-05122A?style=flat&logo=Prisma)&nbsp;
 ![Hibernate](https://img.shields.io/badge/-Hibernate-05122A?style=flat&logo=hibernate)&nbsp;
 
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2d333a&height=120&section=footer"/>
