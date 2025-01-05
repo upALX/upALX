@@ -12,7 +12,6 @@
 
  <div align="center" margin="0 auto">    
 
-
 <img height="175em" src="https://stats-github-app.vercel.app?user=upalx&theme=python-dark" alt="GitHub Streak" />
    
    <img height="175em" src="https://github-stats-readme-langs.vercel.app/api/top-langs/?username=upalx&layout=compact&show_icons=true&theme=gotham&border_color=4584b6&title_color=4584b6&text_color=ffde57&&langs_count=10&bg_color=000000&hide=jupyter%20notebp"/>
