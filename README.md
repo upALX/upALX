@@ -7,8 +7,7 @@
 <p>Sou inquieto. Minha inquietude é guiada pela curiosidade. Sempre encontrei beleza na simplicidade de resolver grandes desafios e na elegancia dessas soluções. Tecnologia me conecta com essa essencia, minha essencia. Não vivo tecnologia apenas como um apaixonado, e sim, alguém que quer deixar marcas que impactam e simplificam o cotidiano das pessoas. Não quero ser aquele que faz a ponte sozinho, mas aquele que ajuda a construir.
 </p>
 
-## 
-<img height="36em" src="https://github.com/upALX/All-Assets/blob/main/my-number-icon.gif" alt="GitHub Streak"  /> My numbers & languages
+## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/my-number-icon.gif" alt="GitHub Streak"  /> My numbers & languages
 
  <div align="center" margin="0 auto">    
 
@@ -17,7 +16,6 @@
    <img height="175em" src="https://github-stats-readme-langs.vercel.app/api/top-langs/?username=upalx&layout=compact&show_icons=true&theme=gotham&border_color=4584b6&title_color=4584b6&text_color=ffde57&&langs_count=10&bg_color=000000&hide=jupyter%20notebp"/>
 
 </div>
-
 
 ## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/history-lifetime.gif" alt="GitHub Streak" />  My Story 
  
