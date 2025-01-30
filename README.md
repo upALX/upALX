@@ -62,6 +62,8 @@
 ![Grafana](https://img.shields.io/badge/-Grafana-05122A?style=flat&logo=Grafana)&nbsp;
 ![GoogleCloud](https://img.shields.io/badge/-GoogleCloud-05122A?style=flat&logo=googlecloud)&nbsp;
 ![Amazon Web Services](https://img.shields.io/badge/AWS-05122A?style=flat&logo=amazonwebservices)&nbsp;
+![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
+
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
 ![SQLite](https://img.shields.io/badge/-SQLite-05122A?style=flat&logo=sqlite)&nbsp;
@@ -75,9 +77,7 @@
 
 ![GO](https://img.shields.io/badge/-GO-05122A?style=flat&logo=GO)&nbsp;
 ![PHP](https://img.shields.io/badge/-PHP-05122A?style=flat&logo=php)&nbsp;
-![Csharp](https://img.shields.io/badge/-Csharp-05122A?style=flat&logo=csharp)&nbsp;
 
-![.NET](https://img.shields.io/badge/-.Net-05122A?style=flat&logo=DotNet)&nbsp;
 ![springboot](https://img.shields.io/badge/-Spring_boot-05122A?style=flat&logo=springboot)&nbsp;
 ![VueJS](https://img.shields.io/badge/-Vue.js-05122A?style=flat&logo=vue.js)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-05122A?style=flat&logo=Kubernetes)&nbsp;
@@ -86,9 +86,10 @@
 ![Jest](https://img.shields.io/badge/-Jest-05122A?style=flat&logo=jest)&nbsp;
 ![Lumen](https://img.shields.io/badge/-Lumen-05122A?style=flat&logo=lumen)&nbsp;
 ![Apollo](https://img.shields.io/badge/-Apollo-05122A?style=flat&logo=apollographql)&nbsp;
-
-![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![Kafka](https://img.shields.io/badge/-ApacheKafka-05122A?style=flat&logo=ApacheKafka)&nbsp;
+
+
+![mlflow](https://img.shields.io/badge/-MLFlow-05122A?style=flat&logo=mlflow)&nbsp;
 ![Spark](https://img.shields.io/badge/-ApacheSpark-05122A?style=flat&logo=ApacheSpark)&nbsp;
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-05122A?style=flat&logo=rabbitmq)&nbsp;
 ![Prometheus](https://img.shields.io/badge/-Prometheus-05122A?style=flat&logo=Prometheus)&nbsp;
