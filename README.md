@@ -2,11 +2,11 @@
 
 
 **🇺🇸**
-<p> I'm restless. My restlessness is driven by curiosity. I have always found beauty in the simplicity of solving big challenges and in the elegance of these solutions. Technology connects me with this essence, my essence. I don't just experience technology as a passionate person, but rather someone who wants to leave marks that impact and simplify people's daily lives. I don't want to be the one who builds the bridge alone, but the one who helps build.</p>
+<p> I am restless. I don't live technology just as a passionate person, but as someone who wants to leave marks that impact and simplify people's daily lives. I do not want to be the one who builds the bridge alone, but rather the one who helps build it.</p>
 
 
 **🇧🇷**
-<p>Sou inquieto. Minha inquietude é guiada pela curiosidade. Sempre encontrei beleza na simplicidade de resolver grandes desafios e na elegancia dessas soluções. Tecnologia me conecta com essa essencia, minha essencia. Não vivo tecnologia apenas como um apaixonado, e sim, alguém que quer deixar marcas que impactam e simplificam o cotidiano das pessoas. Não quero ser aquele que faz a ponte sozinho, mas aquele que ajuda a construir.
+<p>Sou inquieto. Não vivo tecnologia apenas como um apaixonado, e sim, alguém que quer deixar marcas que impactam e simplificam o cotidiano das pessoas. Não quero ser aquele que faz a ponte sozinho, e sim aquele que ajuda a construir.
 </p>
 
 
