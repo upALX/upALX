@@ -1,14 +1,11 @@
 <h1 align="left">Greetings  <img height="32em" src="https://github.com/upALX/All-Assets/blob/main/saudation-icon-animated.gif" alt="GitHub Streak"  /> , i'm Alexandre!</h1>
 
-
-**🇺🇸**
-<p> I am restless. I don't live technology just as a passionate person, but as someone who wants to leave marks that impact and simplify people's daily lives. I do not want to be the one who builds the bridge alone, but rather the one who helps build it.</p>
-
-
 **🇧🇷**
 <p>Sou inquieto. Não vivo tecnologia apenas como um apaixonado, e sim, alguém que quer deixar marcas que impactam e simplificam o cotidiano das pessoas. Não quero ser aquele que faz a ponte sozinho, e sim aquele que ajuda a construir.
 </p>
 
+**🇺🇸**
+<p> I am restless. I don't live technology just as a passionate person, but as someone who wants to leave marks that impact and simplify people's daily lives. I do not want to be the one who builds the bridge alone, but rather the one who helps build it.</p>
 
 ## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/my-number-icon.gif" alt="GitHub Streak"  /> My numbers & languages
 
