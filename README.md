@@ -1,21 +1,49 @@
 <h1 align="left">Greetings  <img height="32em" src="https://github.com/upALX/All-Assets/blob/main/saudation-icon-animated.gif" alt="GitHub Streak"  /> , i'm Alexandre!</h1>
 
 **🇧🇷**
-<p>Sou inquieto. Aquele alguém que quer deixar marcas que impactam e simplificam o cotidiano das pessoas. Não preciso ser aquele que faz uma ponte sozinho, e sim aquele que ajuda a construir.
+<p>Sou inquieto. Aquele alguém que quer deixar marcas que impactam e simplificam o cotidiano das pessoas. Não preciso ser aquele que faz uma ponte sozinho, e sim quem ajuda a construir.
 </p>
 
 **🇺🇸**
-<p> I am restless. Someone who wants to leave marks that impact and simplify people's daily lives. I don't need to be the one who builds a bridge alone, but rather the one who helps build it.</p>
+<p> I am restless. Someone who wants to leave marks that impact and simplify people's daily lives. I don't need to be the one who builds a bridge alone, ut rather the one who helps build it.</p>
 
 ## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/my-number-icon.gif" alt="GitHub Streak"  /> Stats
 
- <div align="center" margin="0 auto">    
+<table border="0" cellpadding="0" cellspacing="0" width="960" align="center" style="border-collapse: collapse; width: 100%; max-width: 960px; ">
+  <tr>
+    <td width="33%" valign="top">
+      <div style="background-color: #121212; border-radius: 12px; padding: 12px;">
+        <img
+          src="https://github-readme-stats.vercel.app/api/top-langs/?username=upalx&size_weight=0.5&count_weight=0.5&layout=pie&show_icons=true&theme=gotham&border_color=4584b6&title_color=4584b6&text_color=ffde57&langs_count=10&bg_color=000000&hide=Jupyter%20Notebook"
+          alt="Top Languages"
+          style="width: 100%; max-width: 320px; height: 340px; object-fit: contain; border-radius: 12px;"
+        />
+      </div>
+    </td>
+    <td width="67%" valign="top" style="padding-left: 24px;">
+      <div style="display: flex; flex-direction: column; gap: 24px;">
+        <div style="background-color: #111; border-radius: 12px; padding: 12px;">
+          <img
+            src="https://github-readme-streak-stats-only-contribs.vercel.app?user=upalx&theme=python-dark&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=550&hide_current_streak=true&hide_longest_streak=true"
+            alt="GitHub Streak"
+            style="width: 100%; max-width: 400px; height: 160px; object-fit: cover; border-radius: 8px;"
+          />
+        </div>
+        <div style="background-color: #111; border-radius: 12px; padding: 12px;">
+          <img
+            src="https://github-readme-activity-graph.vercel.app/graph?username=upalx&radius=8&bg_color=000000&color=7495f2&area_color=e0da22&line=e0da22&point=false&area=true&custom_title=ALX%20-%20Activity%20flow%20(D-30)&hide_border=false&grid=false&days=30"
+            alt="Activity Graph"
+            style="width: 100%; max-width: 400px; height: 160px; object-fit: cover; border-radius: 8px;"
+          />
+        </div>
+      </div>
+    </td>
+  </tr>
+</table>
 
-   <img height="175em" src="https://github-readme-streak-stats-only-contribs.vercel.app?user=upalx&theme=python-dark&border_radius=4&date_format=M%20j%5B%2C%20Y%5D&card_width=400&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" />
 
-   <img height="175em" src="https://github-stats-readme-langs.vercel.app/api/top-langs/?username=upalx&layout=compact&show_icons=true&theme=gotham&border_color=4584b6&title_color=4584b6&text_color=ffde57&&langs_count=10&bg_color=000000&hide=jupyter%20notebp"/>
 
-</div>
+
 
 ## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/history-lifetime.gif" alt="GitHub Streak" />  Timeline
  
