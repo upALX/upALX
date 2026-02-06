@@ -7,6 +7,7 @@
 **🇺🇸**
 <p> I am restless. Someone who wants to leave marks that impact and simplify people's daily lives. I don't need to be the one who builds a bridge alone, ut rather the one who helps build it.</p>
 
+
 ## <img height="36em" src="https://github.com/upALX/All-Assets/blob/main/my-number-icon.gif" alt="GitHub Streak"  /> Stats
 
 <table border="0" cellpadding="0" cellspacing="0" width="960" align="center" style="border-collapse: collapse; width: 100%; max-width: 960px; ">
@@ -14,7 +15,7 @@
     <td width="33%" valign="top">
       <div style="background-color: #121212; border-radius: 12px; padding: 12px;">
         <img
-          src="https://github-readme-stats.vercel.app/api/top-langs/?username=upalx&size_weight=0.5&count_weight=0.5&layout=pie&show_icons=true&theme=gotham&border_color=4584b6&title_color=4584b6&text_color=ffde57&langs_count=10&bg_color=000000&hide=Jupyter%20Notebook"
+          src="https://githublangs.vercel.app/api/top-langs/?username=upalx&size_weight=0.5&count_weight=0.5&layout=compact&show_icons=true&theme=gotham&border_color=4584b6&title_color=4584b6&text_color=ffde57&langs_count=10&bg_color=000000&hide=Jupyter%20Notebook"
           alt="Top Languages"
           style="width: 100%; max-width: 320px; height: 340px; object-fit: contain; border-radius: 12px;"
         />
