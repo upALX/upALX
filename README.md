@@ -15,7 +15,7 @@
     <td width="33%" valign="top">
       <div style="background-color: #121212; border-radius: 12px; padding: 12px;">
         <img
-          src="https://githublangs.vercel.app/api/top-langs/?username=upalx&size_weight=0.5&count_weight=0.5&layout=compact&show_icons=true&theme=gotham&border_color=4584b6&title_color=4584b6&text_color=ffde57&langs_count=10&bg_color=000000&hide=Jupyter%20Notebook"
+          src="https://githublangs.vercel.app/api/top-langs/?username=upalx&size_weight=0.5&count_weight=0.5&layout=compact&show_icons=true&theme=gotham&border_color=4584b6&title_color=4584b6&text_color=ffde57&langs_count=11&bg_color=000000&hide=Jupyter%20Notebook"
           alt="Top Languages"
           style="width: 100%; max-width: 320px; height: 340px; object-fit: contain; border-radius: 12px;"
         />
